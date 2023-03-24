@@ -1,5 +1,4 @@
-# Welcome to Fabric Labs!
-[![Fabric General Chat][badge-chat]][chat]
+# Welcome to Fabric Labs! [![Fabric General Chat][badge-chat]][chat]
 
 Here you'll find the repository homepages for our in-house projects.  You can submit a pull request, report issues, and discuss new features for each of our open source initiatives.
 
