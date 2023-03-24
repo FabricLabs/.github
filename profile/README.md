@@ -7,7 +7,7 @@ We're always looking for new contributors, and even operate [a mentorship progra
 ## What is Fabric Labs?
 We're the people behind a number of decentralized projects built around [the Fabric Protocol][fabric-protocol].  We primarily maintain [`@fabric/core`][fabric-core-github] and a few other surrounding libraries, like [`@fabric/http`][fabric-http-github] and [`@fabric/react`][fabric-react-github].
 
-## Interesting Projects
+## Projects of Interest
 - [`@fabric/core`][fabric-core-github] [ [`#meta`][fabric-planning], [`#meta:fabric.pub`][chat-meta], [`#general:fabric.pub`][chat-general] ]
 - [`@fabric/http`][fabric-http-github]
 - [`@fabric/react`][fabric-react-github]
